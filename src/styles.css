@@ -1,0 +1,22 @@
+ul {
+  font-size: 1.56rem;
+  list-style-type: circle;
+  list-style: none;
+}
+
+table {
+  border: "1px solid grey";
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 8px;
+  /* border: 1px solid saddlebrown; */
+  text-align: center;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
